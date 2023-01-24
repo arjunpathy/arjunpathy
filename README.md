@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjunpathy
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Python for Data Science
+- 🌱 I’m currently learning Python & Solidity 
 - 💞️ I’m looking to collaborate on any web apps built with MERN / MEAN stack
 - 📫 How to reach me https://www.linkedin.com/in/nagarjun2695
 
