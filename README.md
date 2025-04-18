@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Arjun<br>👀 I’m interested in Web Development & Blockchain Technology<br>🌱 I’m currently learning Next.Js & Solidity <br>💞️ I’m looking to collaborate on any web apps built with MERN / MEAN stack<br>📫 How to reach me https://www.linkedin.com/in/nagarjun2695
+👋 Hi, I’m Arjun <br>👀 I’m interested in Web Development & Blockchain Technology<br>🌱 I’m currently learning Next.Js & Solidity <br>💞️ I’m looking to collaborate on any web apps built with MERN / MEAN stack<br>📫 How to reach me https://www.linkedin.com/in/nagarjun2695
 
 
 ## 🌐 Socials:
